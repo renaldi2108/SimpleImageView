@@ -1,0 +1,2 @@
+include ':app', ':simpleimageview'
+rootProject.name='My Application'

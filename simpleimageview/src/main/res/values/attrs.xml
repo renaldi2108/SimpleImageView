@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleImageView">
+        <attr name="siv_top_left_radius" format="dimension" />
+        <attr name="siv_top_right_radius" format="dimension" />
+        <attr name="siv_bottom_left_radius" format="dimension" />
+        <attr name="siv_bottom_right_radius" format="dimension" />
+        <attr name="isSquare" format="boolean" />
+    </declare-styleable>
+</resources>
