@@ -26,7 +26,6 @@ use xml:
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         app:isSquare="true"
-        android:layout_centerInParent="true"
         app:siv_top_left_radius="30dp"
         app:siv_bottom_right_radius="30dp"
         android:src="@color/colorPrimary"/>
